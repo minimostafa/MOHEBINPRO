@@ -297,7 +297,7 @@ Promote an admin by id OR username *Sudo only
 Demote an admin by id OR username *Sudo only
 
 !list groups
-Get a list of all groups
+لیست اعضای گروه
 
 !list realms
 Get a list of all realms
